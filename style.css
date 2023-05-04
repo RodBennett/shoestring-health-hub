@@ -52,12 +52,10 @@ body {
     color: black
 
 }
-
 .nav-links{
     text-decoration: none;
     color: black
 }
-
 .search-container{
     display: flex;
     justify-content: center;
@@ -130,7 +128,7 @@ body {
     grid-row-gap: 20px;
 
 } */
-.results-container{
+.results-container {
     margin: auto;
     width: 100%;
     padding: 20px;
